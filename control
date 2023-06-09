@@ -1,0 +1,9 @@
+Package: com.mtac.passgen
+Name: PassGen
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Generate random passwords from inside Settings
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
